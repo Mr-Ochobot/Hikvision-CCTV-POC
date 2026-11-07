@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="72">
+<img src="https://seeklogo.com/search?q=cctv.png" alt="Cctv" height="72">
 
 # Hikvision CCTV — CVE-2017-7921 Proof of Concept
 
