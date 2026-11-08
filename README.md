@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://seeklogo.com/search?q=cctv.png" alt="Cctv" height="72">
+<img src="https://pngset.com/images/hikvision-europe-colorvu-camera-hikvision-cctv-camera-transparent-png-2854157.png" alt="Cctv" height="72">
 
 # Hikvision CCTV — CVE-2017-7921 Proof of Concept
 
