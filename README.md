@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pngwing.com.png" alt="CCTV" height="72">
+<img src="assets/pngwing.com.png" alt="CCTV" height="90">
 
 # Hikvision CCTV — CVE-2017-7921 Proof of Concept
 
