@@ -239,14 +239,6 @@ This repository is provided for educational purposes and authorized defensive se
 
 You are responsible for obtaining permission, complying with applicable laws, and ensuring that your testing remains within the agreed scope. The software is provided **as is**, without warranty of any kind.
 
-## References
-
-- [CVE-2017-7921 — National Vulnerability Database](https://nvd.nist.gov/vuln/detail/CVE-2017-7921)
-- [Hikvision — Official Website](https://www.hikvision.com/)
-- [Python Documentation](https://docs.python.org/3/)
-
----
-
 <div align="center">
 
 **Python-based security assessment for authorized Hikvision CCTV environments**
